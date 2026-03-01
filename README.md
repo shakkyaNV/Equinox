@@ -1,7 +1,7 @@
 # JAX Learning Repo
 Personal sandbox to learn JAX fundamentals + small projects.
 
-[![CI](https://github.com/umayangigunarathne/equinox/actions/workflows/ci.yml/badge.svg)](https://github.com/umayangigunarathne/equinox/actions/workflows/ci.yml)
+[![CI](https://github.com/shakkyanv/equinox/actions/workflows/ci.yml/badge.svg)](https://github.com/shakkyanv/equinox/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
